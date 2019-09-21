@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+Hello, welcome to my GitHub page!
 
-email: agus[at]python.web.id
+I am a data-oriented programmer and self-declared math-geek. I enjoy writing about my technical thoughts.
+
+email: shankar.atreya[at]gmail.com

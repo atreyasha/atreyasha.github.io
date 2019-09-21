@@ -1,0 +1,7 @@
+.mathjax-tooltip {
+  display: none;
+  width: 50%;
+  position: absolute;
+  background-color: white;
+  border:1px dotted black
+}

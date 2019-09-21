@@ -1,10 +1,10 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+title: Technical posts
+description: Mathematical and programmatic thoughts
+author: Atreya Shankar
+github: https://github.com/atreyasha
+about: Programmer and math-geek; sharing my daydreams
+# disqus_shortname: stackproblems
+# google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
 tagarray: []
@@ -15,38 +15,40 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
-    - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      # - icon: fa-facebook
+      # link: "#"
+      # - icon: fa-twitter
+      # link: "#"
+      #- icon: fa-stack-exchange
+      # link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/atreyasha"
+    - icon: fa-linkedin
+      link: "https://linkedin.com/in/atreya-shankar-644352113"
 
-share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
+# share:
+#  twitter_username: github.io
+#  fb_appid: 1749788565247320
 
 urls:
     - text: About Me
       url: /about/
-    - text: My Projects
-      url: /projects/
+      # - text: My Projects
+      # url: /projects/
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://atreyasha.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
 markdown: kramdown
-gems:
+mathjax: true
+plugins:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-feed
 
 compress_html:
   clippings: all
