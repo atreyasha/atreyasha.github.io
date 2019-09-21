@@ -40,6 +40,7 @@ $$
 
 Now for the mathematical statement regarding the arithmetic mean:
 
+<div>
 $$
 \begin{eqnarray} 
 &\sum_{i=1}^{s}|a_i-\overline{a}|-\sum_{i=s+1}^{n}|a_i-\overline{a}| = 0 \\ \nonumber \\
@@ -47,9 +48,11 @@ $$
 &-(\overline{a}-a_{s+1})-(\overline{a}-a_{s+2})-(\overline{a}-a_{s+3})-...-(\overline{a}-a_n)=0
 \end{eqnarray}
 $$
+</div>
 
 Re-arranging the terms:
 
+<div>
 $$
 \begin{align}
 &a_1+a_2+...+a_n-n\cdot\overline{a}=0 \\\nonumber\\ 
@@ -57,3 +60,4 @@ $$
 &\overline{a} = \frac{a_1+a_2+...+a_n}{n} \quad \square
 \end{align}
 $$
+</div>
