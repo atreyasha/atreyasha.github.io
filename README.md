@@ -1,4 +1,8 @@
-## My Stack Problems
+## Jekyll-theme
+
+This repository is a fork of a jekyll theme developed by `agusmakmum`.
+
+## Forked Information
 
 > This project forked and has been modified from [A simple grey theme for Jekyll](https://github.com/liamsymonds/simplygrey-jekyll),
 > and the search posts using [Super Search](https://github.com/chinchang/super-search)
@@ -66,7 +70,6 @@ image: Broadcast_Mail.png             # (custom) image only for meta `property="
 
 # your content post with markdown syntax goes here...
 ```
-
 
 #### Installing in your local
 
