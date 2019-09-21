@@ -2,7 +2,6 @@
 layout: post
 title:  "Alternative Formulation of the Arithmetic Mean"
 date:   2019-09-01 06:20:00 +0200
-use_math:true
 categories: [mathematics]
 ---
 
