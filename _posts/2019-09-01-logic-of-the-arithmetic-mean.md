@@ -30,10 +30,10 @@ However, I believe that this formulation hides the actual concept of central ten
 Now, assume a central tendency value or an arithmetic mean for this sample exists, and it, being the central value, exists such that the absolute sum of the positive deviations and the sum of the negative deviations from it must be exactly the same. To put this more mathematically, the arbitrary data set will need some re-arrangement. The data that is greater than or equal to the arithmetic mean (assuming it exists) must be separated from the data that is less than the arithmetic mean in the following manner:
 
 $$
-  \begin{align*}
+  \begin{align}
     a_{1},a_{2},a_{3}...a_s\geq \overline{a} \\
-    a_{s+1},a_{s+2},a_{s+3}...a_n< \overline{a}
-  \end{align*}
+    a_{s+1},a_{s+2},a_{s+3}...a_n < \overline{a}
+  \end{align}
 $$
 
 Now for the mathematical statement regarding the arithmetic mean:
