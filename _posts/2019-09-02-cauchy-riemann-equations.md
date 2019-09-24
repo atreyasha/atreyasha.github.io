@@ -18,9 +18,9 @@ In order for $f'(z)$ to be well-defined, the value of $f'(z)$ must be the same r
 <div>
 $$
 \begin{eqnarray}
-&z = x+iy,  \Longrightarrow x,y \in \mathbb{R},\hspace{2pt} i = \sqrt{-1} \\
+&z \in \{x+iy~|~x,y \in \mathbb{R}, ~ i = \sqrt{-1}\} \\
 \nonumber \\
-&f(z)=u(z)+iv(z) \Longrightarrow u,v \in \mathbb{R},\hspace{2pt} i = \sqrt{-1} \\
+&f(z)\in \{u(z)+iv(z)~|~ u,v \in \mathbb{R},~ i = \sqrt{-1}\} \\
 \nonumber \\
 &f(x,y) = u(x,y) + iv(x,y) \label{4}
 \end{eqnarray}
