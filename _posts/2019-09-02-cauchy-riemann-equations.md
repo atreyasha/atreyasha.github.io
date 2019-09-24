@@ -64,12 +64,12 @@ If the function $f$ is differentiable in complex space, both formulations of the
 
 <div>
 $$
-\begin{eqnarray}
-&\frac{\partial u}{\partial x} + i\frac{\partial v}{\partial x}
-= \frac{\partial v}{\partial y}-i\frac{\partial u}{\partial y}  \\
+\begin{align}
+\frac{\partial u}{\partial x} + i\frac{\partial v}{\partial x}
+&= \frac{\partial v}{\partial y}-i\frac{\partial u}{\partial y}  \\
 \nonumber \\
-&\frac{\partial u}{\partial x} =  \frac{\partial v}{\partial y}, \quad \frac{\partial v}{\partial x} = -\frac{\partial u}{\partial y} \quad \square
-\end{eqnarray}
+\frac{\partial u}{\partial x} =  \frac{\partial v}{\partial y},& \quad \frac{\partial v}{\partial x} = -\frac{\partial u}{\partial y} \quad \square
+\end{align}
 $$
 </div>
 
