@@ -44,8 +44,8 @@ Now for the mathematical statement regarding the arithmetic mean:
 $$
 \begin{eqnarray} 
 &\sum_{i=1}^{s}|a_i-\overline{a}|-\sum_{i=s+1}^{n}|a_i-\overline{a}| = 0 \\ \nonumber \\
-&(a_1-\overline{a})+(a_2-\overline{a})+(a_3-\overline{a})+...+(a_s-\overline{a}) \nonumber \\ 
-&-(\overline{a}-a_{s+1})-(\overline{a}-a_{s+2})-(\overline{a}-a_{s+3})-...-(\overline{a}-a_n)=0
+&(a_1-\overline{a})+(a_2-\overline{a})+(a_3-\overline{a})+...+(a_s-\overline{a}) \\
+&-(\overline{a}-a_{s+1})-(\overline{a}-a_{s+2})-(\overline{a}-a_{s+3})-...-(\overline{a}-a_n)=0 \nonumber
 \end{eqnarray}
 $$
 </div>
