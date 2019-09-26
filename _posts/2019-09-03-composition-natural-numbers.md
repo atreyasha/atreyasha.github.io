@@ -32,4 +32,4 @@ Let's say we use base-2, then 2 is our aggregated quantity and 10 represents 2. 
 
 So we can see that 10, rather than being an actual symbolic number (like 0 to 9), is actually a referential number. 10 requires a clearly defined base and it represents aggregated quantities of that base.
 
-With that idea in mind, it makes no sense to me to say that we use base-10. 10 is not a symbolic number, it is a referential number. So in my opinion, we should not refer to our layman number system as base-10. A more correct representation would be base 9+1, since 9+1 best represents what 10 means to us in daily life. Either that, or come up with a widely accepted symbol which represents the quantity representing 9+1.
+With that idea in mind, it makes no sense to me to say that we use base-10. 10 is not a symbolic number, it is a referential number. So in my opinion, we should not refer to our layman number system as base-10. A more correct representation would be base 9+1, since 9+1 best represents what 10 means to us in daily life. Either that, or come up with a widely accepted symbol which represents the quantity encoded by 9+1.
