@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Alternative Formulation of the Arithmetic Mean"
+description: Reformulating the derivation of the arithmetic mean formula
 date:   2019-09-01 06:20:00 +0200
 categories: [mathematics]
 ---

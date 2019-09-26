@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Derivation of the Cauchy-Riemann Equations"
+description: Deriving Cauchy-Reimann Equations and proving limits via all complex paths for holomorphic functions
 date:   2019-09-02 06:20:00 +0200
 categories: [mathematics]
 ---
