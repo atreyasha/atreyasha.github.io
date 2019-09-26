@@ -36,7 +36,7 @@ urls:
       # - text: My Projects
       # url: /projects/
     - text: XML Feed
-      url: /feed.xml
+      url: /sitemap.xml
 
 url: "https://atreyasha.github.io"
 baseurl: ""
@@ -48,7 +48,7 @@ usemathjax: true
 plugins:
   - jekyll-paginate
   - jekyll-gist
-  - jekyll-feed
+  - jekyll-sitemap
   - jekyll-seo-tag
 
 compress_html:
