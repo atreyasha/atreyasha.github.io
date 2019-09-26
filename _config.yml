@@ -15,8 +15,6 @@ collections:
     permalink: /project/:path/
 
 social:
-      # - icon: fa-facebook
-      # link: "#"
       # - icon: fa-twitter
       # link: "#"
       #- icon: fa-stack-exchange
@@ -25,6 +23,8 @@ social:
       link: "https://github.com/atreyasha"
     - icon: fa-linkedin
       link: "https://linkedin.com/in/atreya-shankar-644352113"
+    - icon: fa-facebook
+      link: "https://www.facebook.com/atreya.shankar"
 
 # share:
 #  twitter_username: github.io
