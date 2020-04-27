@@ -1,9 +1,9 @@
 title: atreyasha.github.io - Atreya Shankar
 front: Technical posts and occasional thoughts
-description: Mathematical and programmatic thoughts
+# description: Mathematical and programmatic thoughts
 author: Atreya Shankar
 github: https://github.com/atreyasha
-about: Programmer and math-geek; sharing my daydreams
+about: ∃ z ∈ ℂ: Meaning ⊨ (Mathematics ∨ ¬Worldy-Needs)
 disqus_shortname: atreyasha-github-io
 # google_analytics: UA-XXXXXXXX-Y
 
@@ -24,8 +24,8 @@ social:
       link: "https://github.com/atreyasha"
     - icon: fa-linkedin
       link: "https://linkedin.com/in/atreya-shankar-644352113"
-    - icon: fa-facebook
-      link: "https://www.facebook.com/atreya.shankar"
+    # - icon: fa-facebook
+      # link: "https://www.facebook.com/atreya.shankar"
 
 # share:
 #  twitter_username: github.io
@@ -33,7 +33,7 @@ social:
 
 urls:
     - text: About Me
-      url: /about/
+      # url: /about/
       # - text: My Projects
       # url: /projects/
     - text: XML Feed
