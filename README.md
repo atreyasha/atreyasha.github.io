@@ -1,5 +1,7 @@
-## Personal website and blog
+## Minimal website
 
-This is a github repository for my personal website and blog, created using jekyll.
+This is a Github repository documenting a minimal personal website and blog.
 
-This jekyll theme used in this website is modified from that of [agusmakmum](https://github.com/agusmakmun/agusmakmun.github.io)
+## Acknowledgments
+
+The Jekyll theme used has been adapted from [agusmakmum](https://github.com/agusmakmun/agusmakmun.github.io).
