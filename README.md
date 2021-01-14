@@ -1,4 +1,4 @@
-## Minimal website
+## Minimal website and blog
 
 This is a Github repository documenting a minimal personal website and blog.
 
