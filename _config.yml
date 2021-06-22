@@ -19,7 +19,7 @@ social:
 
 urls:
     - text: PGP Public Key
-      url: "https://pgp.mit.edu/pks/lookup?search=0x41723204DC79DDCDA43B80C35330BD3D1107E5A6&op=vindex"
+      url: "https://github.com/atreyasha.gpg"
     - text: XML Feed
       url: /sitemap.xml
 
