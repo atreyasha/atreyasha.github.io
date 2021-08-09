@@ -1,6 +1,6 @@
 # atreyasha.github.io :microscope:
 
-This is repository documents a minimal personal website and blog powered by [Jekyll](https://jekyllrb.com/).
+This repository documents a minimal personal website and blog powered by [Jekyll](https://jekyllrb.com/). The Jekyll theme used is adapted from [agusmakmun.github.io](https://github.com/agusmakmun/agusmakmun.github.io), which is distributed under the MIT [License](THIRD_PARTY_NOTICES.txt).
 
 ## Usage
 
@@ -34,7 +34,3 @@ With your browser, open the local server address shown in the final command's ou
 ## Troubleshooting
 
 As per this [discussion](https://talk.jekyllrb.com/t/error-no-implicit-conversion-of-hash-into-integer/5890/2), Jekyll `v3.9` is incompatible with Ruby `v3`. Using these two together results in the `no implicit conversion of Hash into Integer (TypeError)` error message. Downgrading `ruby` to `v2.7.*` fixes the issue.
-
-## Acknowledgments
-
-The Jekyll theme used has been adapted from [agusmakmun](https://github.com/agusmakmun/agusmakmun.github.io)
