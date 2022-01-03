@@ -16,7 +16,7 @@ To serve this website locally, follow the points below:
     $ gem install jekyll bundler
     ```
 
-3. Clone this repository and navigate into it
+3. Clone this repository and navigate inside it
 
 4. Install all necessary application `gems` automatically using `bundler`:
 
