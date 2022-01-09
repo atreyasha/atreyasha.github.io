@@ -265,6 +265,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  ffi (~> 1.15)
   github-pages
   jekyll-gist
   jekyll-paginate

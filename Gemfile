@@ -6,3 +6,5 @@ group :jekyll_plugins do
   gem 'jekyll-gist'
   gem 'jekyll-paginate'
 end
+
+gem "ffi", "~> 1.15"
