@@ -16,6 +16,8 @@ social:
       link: "https://github.com/atreyasha"
     - icon: fa-linkedin
       link: "https://linkedin.com/in/atreya-shankar-644352113"
+    - icon: fa-university
+      link: "https://www.hslu.ch/en/lucerne-university-of-applied-sciences-and-arts/about-us/people-finder/profile/?pid=5181"
 
 urls:
     - text: PGP Public Key
