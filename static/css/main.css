@@ -111,10 +111,10 @@ div.col-sm-3 div.profile-about {
   margin: 1em 0;
 }
 .PageNavigation .next {
-  text-align: right;
+  text-align: left;
 }
 .PageNavigation .prev {
-  text-align: left;
+  text-align: right;
 }
 
 /* Social Icons */
