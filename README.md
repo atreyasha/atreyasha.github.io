@@ -4,7 +4,7 @@ This repository documents a minimal personal website and blog powered by [Jekyll
 
 ## Usage
 
-To serve this website locally, follow the points below:
+Follow the instructions below to serve this website locally:
 
 1. Install the core dependencies listed [here](https://jekyllrb.com/docs/installation/); particularly Ruby, RubyGems, GCC and Make
 
@@ -18,9 +18,10 @@ To serve this website locally, follow the points below:
 
 3. Clone this repository and navigate inside it
 
-4. Install all necessary application `gems` automatically using `bundler`:
+4. Install all necessary application `gems` locally to `./vendor/bundle` using `bundle`:
 
    ```
+   $ bundle config set --local path "vendor/bundle"
    $ bundle install
    ```
 
