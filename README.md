@@ -10,10 +10,10 @@ Follow the instructions below to serve this website locally:
 
     **Note:** You might need to add a gems directory onto your `PATH` variable.
 
-2. Install `jekyll` and `bundler` gems:
+2. Install the `bundler` gem:
 
     ```
-    $ gem install jekyll bundler
+    $ gem install bundler
     ```
 
 3. Clone this repository and navigate inside it
