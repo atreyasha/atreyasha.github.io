@@ -16,6 +16,8 @@ social:
       link: "https://github.com/atreyasha"
     - icon: fa-linkedin
       link: "https://linkedin.com/in/atreya-shankar-644352113"
+    - icon: fa-google-scholar
+      link: "https://scholar.google.com/citations?user=uznwStgAAAAJ&hl=en"
 
 urls:
     - text: PGP Public Key
